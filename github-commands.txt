@@ -1,0 +1,26 @@
+git init - to intialise a local repository
+
+git add <file name > - to make the file staged (ready for tracking)
+
+git status - to check the files are staged or not
+ 
+git commit <filename> -m "message" - to commit and make the files trackable that simply means pushing in to git vcs
+ 
+git restore <filename> - incase if you deleted a trackable file then you can restore it 
+
+git remote add origin url - adds remote git repo into your local repo
+
+git remote -v - to check wheather the remote repo is added to local or not
+ 
+git remote set-url origin - to change the remote url & to gain the access to the git hub repo is comman use case through PAT
+
+git remote set-url origin https://PAT@github.com------ gives access
+ 
+git push origin master -- everything now is pushed into the master branch
+ 
+git clone url -- github-local
+
+fork---github-github a copy
+
+git pull orgin master ---changes through github GUI 
+
