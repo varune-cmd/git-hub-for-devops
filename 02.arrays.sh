@@ -40,6 +40,8 @@ key=( [name]=varun [age]=21 [gender]=male )
 
 echo "${key[name]} ${key[gender]} ${key[age]}"
 
+########## THESE ARE CHANGES THROUGH GITHUB GUI ############
+
  
  
 
